@@ -15,15 +15,15 @@ This repo contains 3 main folders:
 
 *Cohort 1 (started 2020-04-02) - Tuesdays, 8pm EDT/EST*
 
-- 2020-08-11 Chapter 21 - Translating R code: Pavitra Chakravarty
 - 2020-08-18 Chapter 22 - Debugging: [Tan Ho](https://twitter.com/_tanho)
-- 2020-08-25 Chapter 23 - Measuring performance:
+- 2020-08-25 Metaprogramming review
+- 2020-09-01 Chapter 23 - Measuring performance:
 
 <details>
   <summary> Future Meetings </summary>
-
-- 2020-09-01 Chapter 24 - Improving performance:
-- 2020-09-08 Chapter 25 - Rewriting R code in C++:
+  
+- 2020-09-08 Chapter 24 - Improving performance:
+- 2020-09-15 Chapter 25 - Rewriting R code in C++:
 
 </details>
 <hr>
@@ -48,7 +48,7 @@ This repo contains 3 main folders:
   <summary> Future Meetings </summary>
 
 - 2020-08-27 Chapter 5 - Control Flow
-- 2020-09-03 Chapter 6 - Functions
+- 2020-09-03 Chapter 6 - Functions [Meenakshi Kushwaha](https://twitter.com/envhealthspeak)
 - 2020-08-10 Chapter 7 - Environments
 
 </details>
@@ -87,8 +87,7 @@ Chapter 2 - Names and values
 Chapter 3 - Vectors
 
 - Cohort 1: [Tony ElHabr](https://twitter.com/TonyElHabr) ([slides](https://r4ds.github.io/bookclub-Advanced_R/Presentations/Week03/Cohort1/Chap3slides.html#1) | [video](https://www.youtube.com/watch?v=pQ-xDAPEQaw))
-- Cohort 2: [Vajresh Balaji](https://twitter.com/bvajresh)
-([slides](https://r4ds.github.io/bookclub-Advanced_R/Presentations/Week03/Cohort2/Chapter3slides.html#1) | video)
+- Cohort 2: [Vajresh Balaji](https://twitter.com/bvajresh) ([slides](https://r4ds.github.io/bookclub-Advanced_R/Presentations/Week03/Cohort2/Chapter3Slides.html#1) | video)
 
 Chapter 4 - Subsetting
 
@@ -153,3 +152,7 @@ Chapter 19 - Quasiquotation
 Chapter 20 - Evaluation
 
 - Cohort 1: [Daryn Ramsden](https://twitter.com/thisisdaryn) ([slides](https://r4ds.github.io/bookclub-Advanced_R/Presentations/Week19/Cohort1/AdvRChapter20#1) | [video](https://www.youtube.com/watch?v=4En_Ypvtjqw))
+
+Chapter 21 - Translating R Code (Domain Specific Languages)
+
+- Cohort 1: Pavitra Chakravarty ([slides](https://r4ds.github.io/bookclub-Advanced_R/Presentations/Week20/Cohort1/Chapter21.html#1) | [video](https://www.youtube.com/watch?v=fixyitpXrwY))
